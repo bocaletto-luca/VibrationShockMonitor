@@ -1,4 +1,5 @@
 # Vibration & Shock Monitor with LoRaWAN
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
